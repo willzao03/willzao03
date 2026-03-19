@@ -4,7 +4,7 @@
 
 <p align="left">My name is Willian and I'm a Computer Science, from  Brasil.
 
-...I am a student at UNIFECAF, currently pursuing a degree in Computer Science. I am looking to grow professionally in my areas of interest, which include Data Analysis, Artificial Intelligence (A.I), and Front-end and Back-end development. With this profile, my goal is not only to share my projects but also to document my progress and apply continuous improvement throughout my journey.</p>
+I am a student at UNIFECAF, currently pursuing a degree in Computer Science. I am looking to grow professionally in my areas of interest, which include Data Analysis, Artificial Intelligence (A.I), and Front-end and Back-end development. With this profile, my goal is not only to share my projects but also to document my progress and apply continuous improvement throughout my journey.</p>
 
 ###
 
